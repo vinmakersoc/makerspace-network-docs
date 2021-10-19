@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmakerspace_network_guide=self.webpackChunkmakerspace_network_guide||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"https://github.com/vinmakersoc/makerspace-network-guide/vi/blog/welcome"}]}')}}]);
