@@ -4,31 +4,35 @@ sidebar_position: 4
 
 # Badges
 
-Docusaurus creates a **page for each blog post**, but also a **blog index page**, a **tag system**, an **RSS** feed...
+To gain access to the VinUniversity Makerspace Network, users need to earn access Badges. Badging is how we ensure users have the skills to safely and efficiently use our network of materials, machines and spaces.
 
-## Create your first Post
+Remember that you will need to complete pre-requisite online learning components before you are able to book into an offline Badge Training session.
 
-Create a file at `blog/2021-02-28-greetings.md`:
+## Dynamic checklist
 
-```md title="blog/2021-02-28-greetings.md"
----
-slug: greetings
-title: Greetings!
-authors:
-  - name: Joel Marcey
-    title: Co-creator of Docusaurus 1
-    url: https://github.com/JoelMarcey
-    image_url: https://github.com/JoelMarcey.png
-  - name: Sébastien Lorber
-    title: Docusaurus maintainer
-    url: https://sebastienlorber.com
-    image_url: https://github.com/slorber.png
-tags: [greetings]
----
+There is a checklist that will keep track of your progress on each badge. This way you will know which step you are on and what you need to do next. Complete all three steps to earn a badge.
 
-Congratulations, you have made your first post!
+![](/img/getting-started/checklist.png)
 
-Feel free to play around and edit this post as much you like.
-```
+## Online learning components
 
-A new blog post is now available at `http://localhost:3000/blog/greetings`.
+Each badge will cover the related materials. Watch or Read through the material carefully to learn about the topic. When you are ready, test your knowledge by taking the Reading Comprehension Quiz.
+
+:::info You need to get at least 80% to pass the quiz
+It is recommended that you read the materials carefully and only try the quiz when you are confident.
+:::
+
+:::tip Watch the videos!
+Reading might be not the easiest way to learn. Our team has produced amazing tutorial videos which cover almost everything.
+:::
+
+
+## Booking offline Badge Training session
+
+After you have completed the pre-requisite online learning components, you will be able to book an offline Badge Training session. 
+
+An email will be automatically sent to you to confirm your registration.
+
+You can check the available timetable for information about instructors, timeslots, session status, and maxseats.
+
+![](/img/getting-started/booking.gif)

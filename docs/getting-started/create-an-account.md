@@ -2,25 +2,39 @@
 sidebar_position: 1
 ---
 
-# Create an Account
+# Access your account
 
-<!-- Add **Markdown or React** files to `src/pages` to create a **standalone page**:
+Everything you need to know to access, edit and protect your account, including logging in and resetting your password.
 
-- `src/pages/index.js` -> `localhost:3000/`
-- `src/pages/foo.md` -> `localhost:3000/foo`
-- `src/pages/foo/bar.js` -> `localhost:3000/foo/bar` -->
-
-## Sign up and Sign in
+## Create an account
 
 Create an account at [VinUniversity Makerspace Network](https://makerspaces.vinmaker.org/signup) with your VinUniversity email.
 
-An email will be sent to you. You will then be prompt to confirm your email.
+<!-- ![SignUp](/img/getting-started/signUp.png) -->
 
+When you sign up, we'll send you an email to confirm your email address. Before you can sign in, you'll need to confirm your email address.
+
+1. Check your inbox for the email address associated with your account
+2. Look for a message with the subject line "Please confirm your email"
+3. Open the email and click Confirm your email
+
+:::tip Don't see the confirmation email?
+You are recommended to check the Junk Email folder or the Other folder.
+:::
+
+:::caution You can only sign in when your email is confirmed
+:::
+
+## User dashboard
+
+You will have your own dashboard to keep track of your badges.
+
+![dashboard](/img/getting-started/dashboard.png)
+
+## Settings
+
+To be updated!
 
 ## Forget password
 
-Create a file at `src/pages/my-markdown-page.md`
-
-## Learner's Dashboard
-
-Create a file at `src/pages/my-markdown-page.md`
+To retrieve your password, click [Forgot Password](#) and enter your VinUniversity email. After that, you will be sent an email with instructions to reset your password.

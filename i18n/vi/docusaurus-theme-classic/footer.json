@@ -1,0 +1,50 @@
+{
+  "link.title.Docs": {
+    "message": "Tài liệu",
+    "description": "The title of the footer links column with title=Docs in the footer"
+  },
+  "link.title.Community": {
+    "message": "Cộng đồng",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.title.Contact": {
+    "message": "Liên hệ",
+    "description": "The title of the footer links column with title=Contact in the footer"
+  },
+  "link.item.label.Tutorial": {
+    "message": "Hướng dẫn",
+    "description": "The label of footer link with label=Tutorial linking to /docs/intro"
+  },
+  "link.item.label.Blog": {
+    "message": "Blog",
+    "description": "The label of footer link with label=Blog linking to /blog"
+  },
+  "link.item.label.VinMaker Society": {
+    "message": "VinMaker Society",
+    "description": "The label of footer link with label=VinMaker Society linking to https://www.vinmaker.org/"
+  },
+  "link.item.label.Facebook": {
+    "message": "Facebook",
+    "description": "The label of footer link with label=Facebook linking to https://www.facebook.com/vinmakersoc/"
+  },
+  "link.item.label.Github": {
+    "message": "Github",
+    "description": "The label of footer link with label=Github linking to https://github.com/vinmakersoc/"
+  },
+  "link.item.label.Youtube": {
+    "message": "Youtube",
+    "description": "The label of footer link with label=Youtube linking to #"
+  },
+  "link.item.label.Email": {
+    "message": "Email",
+    "description": "The label of footer link with label=Email linking to #"
+  },
+  "link.item.label.Feedback": {
+    "message": "Góp ý",
+    "description": "The label of footer link with label=Feedback linking to #"
+  },
+  "copyright": {
+    "message": "Copyright © 2021 VinMaker Society.",
+    "description": "The footer copyright"
+  }
+}

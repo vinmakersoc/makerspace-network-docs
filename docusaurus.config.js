@@ -6,13 +6,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'VinUniversity Makerspace Network Guide',
+  title: 'VinUniversity Makerspace Network Docs',
   tagline: 'Just about everything you need to know!',
   url: 'https://vinmakersoc.github.io',
   baseUrl: '/makerspace-network-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: '/img/favicon.ico',
   organizationName: 'vinmakersoc', // Usually your GitHub org/user name.
   projectName: 'makerspace-network-docs', // Usually your repo name.
   i18n: {
@@ -103,10 +103,6 @@ const config = {
               },
               {
                 label: 'Youtube',
-                href: '#',
-              },
-              {
-                label: 'Email',
                 href: '#',
               },
             ],

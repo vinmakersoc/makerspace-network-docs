@@ -1,0 +1,22 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Getting Started": {
+    "message": "Bắt đầu",
+    "description": "The label for category Getting Started in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Instructor Resources": {
+    "message": "Dành cho người hướng dẫn",
+    "description": "The label for category Instructor Resources in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Developer Resources": {
+    "message": "Dành cho Lập trình viên",
+    "description": "The label for category Developer Resources in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Extras": {
+    "message": "Thông tin thêm",
+    "description": "The label for category Extras in sidebar tutorialSidebar"
+  }
+}

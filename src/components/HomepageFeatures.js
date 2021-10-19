@@ -1,32 +1,57 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './HomepageFeatures.module.css';
+import Translate, {translate} from '@docusaurus/Translate';
 
 const FeatureList = [
   {
-    title: 'For Learners',
+    title: translate({
+      id: 'learners',
+      message: 'For Learners',
+      description: 'Learners description',
+    }),
     Svg: require('../../static/img/learn.svg').default,
     description: (
       <>
-        This documentations was made for learners, either students or staff, to get to know all available features and how to get started.
+       <Translate
+        id="feature.learners"
+        description="The feature learners message">
+          This documentations was made for learners, either students or staff, to get to know all available features and how to get started.
+        </Translate>
       </>
     ),
   },
   {
-    title: 'For Prototype Instructors',
+    title: translate({
+      id: 'prototypeInstructors',
+      message: 'For Prototype Instructors',
+      description: 'Prototype Instructors description',
+    }),
     Svg: require('../../static/img/instructor.svg').default,
     description: (
       <>
-        Everything you need to know to become a Prototype Instructors. Spend your time helping newcomers to use available machines and resources.
+       <Translate
+        id="feature.prototypeInstructors"
+        description="The feature prototype instructors message">
+          Everything you need to know to become a Prototype Instructors. Spend your time helping newcomers to use available machines and resources.
+        </Translate>
       </>
     ),
   },
   {
-    title: 'For Developers',
+    title: translate({
+      id: 'developers',
+      message: 'For Developers',
+      description: 'Developers description',
+    }),
     Svg: require('../../static/img/developer.svg').default,
     description: (
       <>
-        For maintainers and developers to extend or customize the website. This project is open-source and all contribution is appreciated.
+        <Translate
+        id="feature.developers"
+        description="The feature developers message">
+          For maintainers and developers to extend or customize the website. This project is open-source and all contribution is appreciated.
+        </Translate>
       </>
     ),
   },
