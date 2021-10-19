@@ -1,0 +1,26 @@
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+.heroBanner {
+  padding: 4rem 0;
+  background: linear-gradient(to right bottom,rgba(21,7,231,.867),rgba(43,29,237,.867),rgba(59,44,243,.867),rgba(71,56,253,.851),rgba(83,68,255,.867)),url('https://makerspaces.vinmaker.org/hero.png');
+  background-position: center;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+@media screen and (max-width: 966px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+}
+
+.buttons {
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
