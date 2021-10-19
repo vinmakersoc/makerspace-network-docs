@@ -8,13 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'VinUniversity Makerspace Network Guide',
   tagline: 'Just about everything you need to know!',
-  url: 'https://vinmakersoc.github.io/',
-  baseUrl: 'https://github.com/vinmakersoc/makerspace-network-guide',
+  url: 'https://vinmakersoc.github.io',
+  baseUrl: '/makerspace-network-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'vinmakersoc', // Usually your GitHub org/user name.
-  projectName: 'makerspace-network-guide', // Usually your repo name.
+  projectName: 'makerspace-network-docs', // Usually your repo name.
   i18n: {
     defaultLocale: 'en',
     locales: ['en', 'vi'],
