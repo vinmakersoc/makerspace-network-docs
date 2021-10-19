@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmakerspace_network_guide=self.webpackChunkmakerspace_network_guide||[]).push([[397],{4387:function(e){e.exports=JSON.parse('{"allTagsPath":"/makerspace-network-docs/vi/blog/tags","slug":"/makerspace-network-docs/vi/blog/tags/vinmaker","name":"vinmaker","count":1,"permalink":"/makerspace-network-docs/vi/blog/tags/vinmaker"}')}}]);
